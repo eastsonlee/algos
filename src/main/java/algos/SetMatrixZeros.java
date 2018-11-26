@@ -1,4 +1,4 @@
-package leetcode;
+package algos;
 
 import utils.MatrixOps;
 
